@@ -5,6 +5,9 @@ In the controllers that are synthesized on a nominal model of the nonlinear plan
 
 Keywords: Fuzzy system; Nonlinear control; Active disturbance rejection; Kalman Filter; Vibration suppression.
 
+
+refer to https://scholar.google.com/citations?user=-HRHoYoAAAAJ&hl=de
+
 REFERENCES
 
 1.	Du, H. Lam, J. and Sze, K.Y. Non-fragile H∞ vibration control for uncertain structural systems. J. Sound Vib., 273 (4), 1031–1045 (2004). DOI: 10.1016/S0022-460X(03)00520-0
